@@ -1,9 +1,10 @@
 # Hi there! I'm *Virdi Gunawan* 👋
 
-I am a **Software Developer** focused on building secure, robust backend systems and modern cross-platform applications. My expertise ranges from server-side architecture and database management to frontend development and **Cyber Security**.
+I am a **Software Developer** focused on building secure, **high-performance** backend systems and modern web applications. I specialize in **System Optimization**, ensuring both database queries and frontend assets are delivered with maximum efficiency.
 
+- 🚀 I specialize in **Query Optimization** and **Page Load Performance** (Lazy loading, Async/Defer JS/CSS).
 - 🔭 I’m currently working on improving system architectures and security protocols.
-- 🌱 I’m currently deepening my knowledge in **React.js** and modern frontend workflows.
+- 🌱 I’m currently deepening my knowledge in **React JS** and modern frontend workflows.
 - 💬 Ask me about: **PHP, Python, or SQL.**
 
 ---
@@ -42,8 +43,8 @@ I am a **Software Developer** focused on building secure, robust backend systems
 
 ### 📊 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=virdiggg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virdiggg&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=virdiggg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="virdiggg"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virdiggg&layout=compact&theme=tokyonight" alt="virdiggg"/>
 </p>
 
 ---
@@ -59,4 +60,5 @@ I am a **Software Developer** focused on building secure, robust backend systems
 <a href="https://www.linkedin.com/in/virdi-gunawan-a61026125/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=virdiggg&label=Profile%20views&color=0e75b6&style=flat-square&abbreviated=true" alt="virdiggg" />
 </p>
