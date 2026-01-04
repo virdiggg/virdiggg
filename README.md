@@ -9,6 +9,12 @@ I am a **Software Developer** focused on building secure, **high-performance** b
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=virdiggg&label=Profile%20views&color=0e75b6&style=flat-square&abbreviated=true" alt="virdiggg" />
+</p>
+
+---
+
 ### 🚀 Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -60,5 +66,4 @@ I am a **Software Developer** focused on building secure, **high-performance** b
 <a href="https://www.linkedin.com/in/virdi-gunawan-a61026125/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=virdiggg&label=Profile%20views&color=0e75b6&style=flat-square&abbreviated=true" alt="virdiggg" />
 </p>
