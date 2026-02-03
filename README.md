@@ -4,7 +4,7 @@ I am a **Software Developer** focused on building secure, **high-performance** b
 
 - 🚀 I specialize in **Query Optimization** and **Page Load Performance** (Lazy loading, Async/Defer JS/CSS).
 - 🔭 I’m currently working on improving system architectures and security protocols.
-- 🌱 I’m currently deepening my knowledge in **React JS** and modern frontend workflows.
+- 🌱 I’m currently deepening my knowledge in **React JS** and modern frontend workflows, as well as **Rust**.
 - 💬 Ask me about: **PHP, Python, or SQL.**
 
 ---
