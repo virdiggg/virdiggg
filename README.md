@@ -2,11 +2,11 @@
 
 I am a **Software Developer** focused on building secure, **high-performance** backend systems and modern web applications. I specialize in **System Optimization**, ensuring both database queries and frontend assets are delivered with maximum efficiency.
 
-- 🚀 I specialize in **Query Optimization** and **Page Load Performance** (Lazy loading, Async/Defer JS/CSS).
-- 🔭 I’m currently working on improving system architectures and security protocols.
-- 🌱 I’m currently deepening my knowledge in **React JS** and modern frontend workflows, as well as **Rust**.
-- 💬 Ask me about: **PHP, Python, or SQL.**
-
+- 🚀 Backend & Database Specialist with a focus on **Query Optimization** and **System Architecture**.
+- ⚙️ Expert in **Heavy-Duty Background Processing**, including high-performance automation pipelines and large-scale document/media generation.
+- 🛠️ **Performance-Driven Developer** skilled in streamlining **Database Efficiency** and frontend resource management (Lazy Loading, Async/Defer).
+- 🌱 Currently expanding my ecosystem with **Rust** for systems programming and **React JS** for modern full-stack workflows.
+- 💬 Let’s talk about: **PHP**, **Python**, **SQL**, or **Backend Scaling**.
 ---
 
 <p align="left">
