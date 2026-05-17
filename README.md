@@ -2,11 +2,22 @@
 
 I am a **Software Developer** focused on building secure, **high-performance** backend systems and modern web applications. I specialize in **System Optimization**, ensuring both database queries and frontend assets are delivered with maximum efficiency.
 
-- 🚀 Backend & Database Specialist with a focus on **Query Optimization** and **System Architecture**.
-- ⚙️ Expert in **Heavy-Duty Background Processing**, including high-performance automation pipelines and large-scale document/media generation.
-- 🛠️ **Performance-Driven Developer** skilled in streamlining **Database Efficiency** and frontend resource management (Lazy Loading, Async/Defer).
-- 🌱 Currently expanding my ecosystem with **Rust** for systems programming and **React JS** for modern full-stack workflows.
-- 💬 Let’s talk about: **PHP**, **Python**, **SQL**, or **Backend Scaling**.
+- 🚀 Backend & Database Specialist with a focus on **Query Optimization** and **System Architecture**
+- ⚙️ Expert in **Heavy-Duty Background Processing**, including high-performance automation pipelines and large-scale document/media generation
+- 🛠️ Performance-Driven Developer skilled in streamlining **Database Efficiency** and frontend resource management *(Lazy Loading, Async/Defer)*
+- 🌱 Currently expanding my ecosystem with **Rust** for systems programming and **React JS** for modern full-stack workflows
+- 💬 Let’s talk about: **PHP**, **Python**, **SQL**, **System Design**, or **Backend Scaling**
+
+---
+
+## 🌐 Portfolio & Packages
+
+- 🌐 Portfolio  
+  https://vercel-portfolio-iota-sage.vercel.app/
+
+- 📦 Packagist  
+  https://packagist.org/users/virdiggg/packages
+
 ---
 
 <p align="left">
@@ -16,19 +27,24 @@ I am a **Software Developer** focused on building secure, **high-performance** b
 ---
 
 ### 🚀 Languages & Frameworks
+
 <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/batch_file-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+---
+
 ### 🗄️ Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -37,7 +53,10 @@ I am a **Software Developer** focused on building secure, **high-performance** b
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
+---
+
 ### 🌐 Infrastructure & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white" />
@@ -48,6 +67,7 @@ I am a **Software Developer** focused on building secure, **high-performance** b
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virdiggg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="virdiggg"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virdiggg&layout=compact&theme=tokyonight" alt="virdiggg"/>
@@ -56,14 +76,17 @@ I am a **Software Developer** focused on building secure, **high-performance** b
 ---
 
 ### 📫 Let's Connect!
+
 <p align="left">
 <a href="mailto:virdigunawann@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="mailto:virdigunawan@proton.me">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/virdi-gunawan-a61026125/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
